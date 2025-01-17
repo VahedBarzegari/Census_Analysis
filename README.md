@@ -16,19 +16,4 @@ Data Insight and Visualization: Code to derive key insights, plot data, and visu
 Tools & Libraries:
 QGIS for geographical data analysis
 Python libraries: Pandas, GeoPandas, Matplotlib, and Folium for data manipulation and visualization.
-LinkedIn Version:
-🚀 Unlock the Power of Census Data with This Easy-to-Follow Tutorial!
-
-Dive into the world of census data with simple, step-by-step instructions. Whether you're new to GIS or data analysis, this tutorial will guide you through the entire process.
-
-What you'll learn:
-How to download census tract boundaries and use QGIS to filter them.
-Accessing Census 2021 Data and pre-processing it with Python.
-Visualizing the data on real maps using Folium, Matplotlib, and more.
-Tools you'll get hands-on experience with:
-
-QGIS
-Python Libraries: Pandas, GeoPandas, Matplotlib, Folium
-Whether you're looking to build your skills or explore census data in a more meaningful way, this tutorial has you covered! 🌍📊
-
 
